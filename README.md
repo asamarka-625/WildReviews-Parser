@@ -39,13 +39,13 @@ POSTGRES_PASSWORD=diary_password
 3. **Запуск с Docker Compose:**
 ```
 # Сборка и запуск контейнеров
-docker-compose up --build
+docker compose up --build
 
 # Запуск в фоновом режиме
-docker-compose up -d
+docker compose up -d
 
 # Остановка контейнеров
-docker-compose down
+docker compose down
 ```
 
 4. **Доступ к приложению:**
