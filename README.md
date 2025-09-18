@@ -55,6 +55,12 @@ docker compose down
 - API Documentation: http://localhost:8000/docs
 ```
 
+5. **Просмотр логов:**
+```
+docker compose logs -f web
+docker compose logs -f db
+```
+
 ## 📡 API Endpoints
 
 ### 🔍 Получение отзывов по артикулу
