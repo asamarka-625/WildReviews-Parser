@@ -23,7 +23,7 @@
 1. **Клонируйте репозиторий:**
 ```bash
 git clone https://github.com/asamarka-625/WildReviews-Parser.git
-cd wildreviews-parser
+cd WildReviews-Parser
 ```
 
 2. **Настройка окружения:**
